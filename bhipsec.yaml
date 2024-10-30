@@ -417,3 +417,147 @@ cells:
     dataRef: PSC-P3-CR6 irb.322 OUT
     strokeColor:
       thresholds: *thresholds
+  BSC-P3-CR1 irb.302 - FS SQUARE:
+    dataRef: BSC-P3-CR1 irb.302 OUT
+    fillColor:
+      thresholds: *thresholds
+  BSC-P3-CR1 irb.306 - ICON SQUARE:
+    dataRef: BSC-P3-CR1 irb.306 OUT
+    fillColor:
+      thresholds: *thresholds
+  BSC-P3-CR1 irb.308 - ISAT SQUARE:
+    dataRef: BSC-P3-CR1 irb.308 OUT
+    fillColor:
+      thresholds: *thresholds
+  BSC-P3-CR1 irb.316 - LINTAS SQUARE:
+    dataRef: BSC-P3-CR1 irb.316 OUT
+    fillColor:
+      thresholds: *thresholds
+  BSC-P3-CR1 irb.317 - TELKOM SQUARE:
+    dataRef: BSC-P3-CR1 irb.317 OUT
+    fillColor:
+      thresholds: *thresholds
+  BSC-P3-CR1 irb.327 - SATKOM SQUARE:
+    dataRef: BSC-P3-CR1 irb.327 OUT
+    fillColor:
+      thresholds: *thresholds
+  BSC-P3-CR2 irb.303 - FS SQUARE:
+    dataRef: BSC-P3-CR2 irb.303 OUT
+    fillColor:
+      thresholds: *thresholds
+  BSC-P3-CR2 irb.307 - ICON SQUARE:
+    dataRef: BSC-P3-CR2 irb.307 OUT
+    fillColor:
+      thresholds: *thresholds
+  BSC-P3-CR2 irb.309 - ISAT SQUARE:
+    dataRef: BSC-P3-CR2 irb.309 OUT
+    fillColor:
+      thresholds: *thresholds
+  BSC-P3-CR2 irb.318 - LINTAS SQUARE:
+    dataRef: BSC-P3-CR2 irb.318 OUT
+    fillColor:
+      thresholds: *thresholds
+  BSC-P3-CR2 irb.319 - TELKOM SQUARE:
+    dataRef: BSC-P3-CR2 irb.319 OUT
+    fillColor:
+      thresholds: *thresholds
+  BSC-P3-CR2 irb.328 - SATKOM SQUARE:
+    dataRef: BSC-P3-CR2 irb.328 OUT
+    fillColor:
+      thresholds: *thresholds
+  ODC-P3-CR1 irb.302 - TELKOM SQUARE:
+    dataRef: ODC-P3-CR1 irb.302 OUT
+    fillColor:
+      thresholds: *thresholds
+  ODC-P3-CR1 irb.304 - FS SQUARE:
+    dataRef: ODC-P3-CR1 irb.304 OUT
+    fillColor:
+      thresholds: *thresholds
+  ODC-P3-CR1 irb.310 - ISAT SQUARE:
+    dataRef: ODC-P3-CR1 irb.310 OUT
+    fillColor:
+      thresholds: *thresholds
+  ODC-P3-CR1 irb.312 - ICON SQUARE:
+    dataRef: ODC-P3-CR1 irb.312 OUT
+    fillColor:
+      thresholds: *thresholds
+  ODC-P3-CR1 irb.315 - LINTAS SQUARE:
+    dataRef: ODC-P3-CR1 irb.315 OUT
+    fillColor:
+      thresholds: *thresholds
+  ODC-P3-CR1 irb.321 - SATKOM SQUARE:
+    dataRef: ODC-P3-CR1 irb.321 OUT
+    fillColor:
+      thresholds: *thresholds
+  ODC-P3-CR2 irb.303 - TELKOM SQUARE:
+    dataRef: ODC-P3-CR2 irb.303 OUT
+    fillColor:
+      thresholds: *thresholds
+  ODC-P3-CR2 irb.305 - FS SQUARE:
+    dataRef: ODC-P3-CR2 irb.305 OUT
+    fillColor:
+      thresholds: *thresholds
+  ODC-P3-CR2 irb.311 - ISAT SQUARE:
+    dataRef: ODC-P3-CR2 irb.311 OUT
+    fillColor:
+      thresholds: *thresholds
+  ODC-P3-CR2 irb.313 - ICON SQUARE:
+    dataRef: ODC-P3-CR2 irb.313 OUT
+    fillColor:
+      thresholds: *thresholds
+  ODC-P3-CR2 irb.316 - LINTAS SQUARE:
+    dataRef: ODC-P3-CR2 irb.316 OUT
+    fillColor:
+      thresholds: *thresholds
+  ODC-P3-CR2 irb.322 - SATKOM SQUARE:
+    dataRef: ODC-P3-CR2 irb.322 OUT
+    fillColor:
+      thresholds: *thresholds
+  PSC-P3-CR5 irb.302 - TELKOM SQUARE:
+    dataRef: PSC-P3-CR5 irb.302 OUT
+    fillColor:
+      thresholds: *thresholds
+  PSC-P3-CR5 irb.304 - FS SQUARE:
+    dataRef: PSC-P3-CR5 irb.304 OUT
+    fillColor:
+      thresholds: *thresholds
+  PSC-P3-CR5 irb.310 - ISAT SQUARE:
+    dataRef: PSC-P3-CR5 irb.310 OUT
+    fillColor:
+      thresholds: *thresholds
+  PSC-P3-CR5 irb.312 - ICON SQUARE:
+    dataRef: PSC-P3-CR5 irb.312 OUT
+    fillColor:
+      thresholds: *thresholds
+  PSC-P3-CR5 irb.315 - LINTAS SQUARE:
+    dataRef: PSC-P3-CR5 irb.315 OUT
+    fillColor:
+      thresholds: *thresholds
+  PSC-P3-CR5 irb.321 - SATKOM SQUARE:
+    dataRef: PSC-P3-CR5 irb.321 OUT
+    fillColor:
+      thresholds: *thresholds
+  PSC-P3-CR6 irb.303 - TELKOM SQUARE:
+    dataRef: PSC-P3-CR6 irb.303 OUT
+    fillColor:
+      thresholds: *thresholds
+  PSC-P3-CR6 irb.305 - FS SQUARE:
+    dataRef: PSC-P3-CR6 irb.305 OUT
+    fillColor:
+      thresholds: *thresholds
+  PSC-P3-CR6 irb.311 - ISAT SQUARE:
+    dataRef: PSC-P3-CR6 irb.311 OUT
+    fillColor:
+      thresholds: *thresholds
+  PSC-P3-CR6 irb.313 - ICON SQUARE:
+    dataRef: PSC-P3-CR6 irb.313 OUT
+    fillColor:
+      thresholds: *thresholds
+  PSC-P3-CR6 irb.316 - LINTAS SQUARE:
+    dataRef: PSC-P3-CR6 irb.316 OUT
+    fillColor:
+      thresholds: *thresholds
+  PSC-P3-CR6 irb.322 - SATKOM SQUARE:
+    dataRef: PSC-P3-CR6 irb.322 OUT
+    fillColor:
+      thresholds: *thresholds
