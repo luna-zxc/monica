@@ -1,0 +1,201 @@
+---
+cells:
+  availability_provider:
+    link:
+      url: /d/zkPSwEVSk/dashboard-availability-provider?orgId=1
+  availability_region:
+    link:
+      url: /d/9K2AnyVIz/dashboard-availability-region?orgId=1&refresh=30s
+  performance_region:
+    link:
+      url: /d/NxtQl7dIk/dashboard-performance-availability-provider?orgId=1&refresh=30s
+  performance_provider:
+    link:
+      url: /d/_VR_lnOSz/dashboard-performance-availability-region?orgId=1
+  ivat_remote:
+    link:
+      url: /d/FRECB9TSz/level-1-global-dashboard?orgId=1&refresh=30s
+  ladscape:
+    link:
+      url: /d/b9842c52-0d8f-4e50-814a-94ba47e98021/landscape-jarkom-uker?orgId=1
+  lan_brl:
+    link:
+      url: /d/9DQ_ZwBSk/menara-brilian?orgId=1
+  lan_rgn:
+    link:
+      url: /d/d3c0215f-69b3-4ba4-9b0f-14a443e75b4e/lan-ragunan-monitoring?orgId=1
+  lan_sud:
+    link:
+      url: /d/a2012581-83d9-4726-84f2-83ce02b6d840/lan-sudirman-monitoring?orgId=1
+  lan_tbn:
+    link:
+      url: /d/e5255273-cb1f-4187-b9c4-a5e4c14250b0/lan-tabanan-monitoring?orgId=1
+  ap_astanaveda:
+    link:
+      url: /d/ZW1UGFYSk/access-point-menara-brilian?orgId=1&refresh=1m
+  ap_brl:
+    link:
+      url: /d/ZW1UGFYSk/access-point-menara-brilian?orgId=1&refresh=1m
+  ap_global:
+    link:
+      url: /d/qsAfftYIk/global-access-point?orgId=1&refresh=1m
+  lan_newbrl:
+    link:
+      url: d/c5e04ebd-2a8c-4eac-a1da-82f1b1442f35/monitoring-mb?orgId=1
+  GlobalLan:
+    link:
+      url: /d/c5c25db0-fee2-4937-a931-2d138cf8fb2f/24ae0f57-7cc5-5eee-88d4-6bff5fb15f04?orgId=1
+  CiscoIse:
+    link:
+      url: /dfb5808e-7208-4f10-823d-b13e74a85b75/cisco-ise-log?orgId=1
+  ArubaCp:
+    link:
+      url: /d/f6e6c740-e0ad-4918-9454-8722623c20a2/log-aruba-clear-pass?orgId=1
+  cpu_rgn:
+    link:
+      url: /d/c6110ec8-798f-4e8f-b7ad-8ca88fe06367/lco-cpu-utilization-ragunan?orgId=1
+  cpu_sud:
+    link:
+      url: /d/ca0eac3c-aca0-4ffc-8f1f-757a0fe65cc5/lco-cpu-utilization-sudirman?orgId=1&refresh=10s
+  cpu_tbn:
+    link:
+      url: /d/f0476521-723a-4ba7-8e5b-b94e1bb8c59b/lco-cpu-utilization-tabanan?orgId=1&refresh=10s
+  cpu_mb:
+    link:
+      url: /d/c96b0096-9510-4e61-8b9c-31999e794d0e/lco-cpu-utilization-menara-brilian?orgId=1&refresh=10s
+  cpu_ro:
+    link:
+      url: /d/e2e220bd-e772-4ade-8d8a-3c957774f132/lco-cpu-utilization-remote-office?orgId=1&refresh=10s
+  global_conn:
+    link:
+      url: /d/d599bb79-e867-4925-a38e-69d7cc969a2c/global-grafik-link-connectivity?orgId=1&refresh=10s
+
+  h2h_ipsec:
+    link:
+      url: /d/X_qHcZxGz/host-to-host-via-ipsec-inet?orgId=1
+  h2h_wan:
+    link:
+      url: /d/3W59GEk7z/host-to-host-wan?orgId=1&refresh=30s
+  bh_ipsec:
+    link:
+      url: /d/WQxFuW8Sk/c00f5ad7-5dd5-5943-97d9-14e422db95ef?orgId=1&refresh=1m
+  bh_uker:
+    link:
+      url: /d/e99ffb83-18a6-4ba4-9704-0108b527e6eb/monitoring-3d-global-dasboard-bh-uker-rgn-and-tbn?orgId=1&refresh=1m
+  ivatUker_Global:
+    link:
+      url: /d/FRECB9TSz/level-1-global-dashboard?orgId=1&refresh=30s
+  ivatUker_Availability:
+    link:
+      url: /d/acc059aa-f9eb-4e4c-a4f3-da58dcaeb9e4/availability?orgId=1&refresh=30s
+  global_wno:
+    link:
+      url: /d/b0f93744-f31e-4533-acea-6b25e9f28e01/global-wno
+  global_monitoring:
+    link:
+      url: /d/b0f93744-f31e-4533-acea-6b25e9f28e02/extra-and-intra-new?orgId=1
+  cpu_gti:
+    link:
+      url: /d/KJNFc2qVk/utilisasi-cpu-gti-solarwinds?orgId=1
+  cpu_odc:
+    link:
+      url: /d/cpTW7h3Vk/utilisasi-cpu-odc-solarwinds?orgId=1
+  cpu_sud:
+    link:
+      url: /d/fe90b444-2d6d-4289-a9f8-e3313b69bb1c/utilisasi-cpu-sud-solarwinds?orgId=1
+  cpu_tbn:
+    link:
+      url: /d/3ICActq4z/utilisasi-cpu-drc-solarwinds?orgId=1
+  detail_port:
+    link:
+      url: /d/b146c6a7-4960-405f-a10b-aef789d3dcee/detail-port
+  dns_dhcp:
+    link:
+      url: /d/FTXlnhvSkqwerty_luna/monitoring-poller-dns-and-dhcp?orgId=1&refresh=10s
+  f5_all:
+    link:
+      url: /d/MyNRX8KIk/f5-monitoring?orgId=1
+  f5_odc:
+    link:
+      url: /d/iS5EpPOVz-qwe-odc/f5-odc?orgId=1
+  f5_rgn:
+    link:
+      url: /d/iS5EpPOVz-qwe/f5-rgn?orgId=1
+  f5_tbn:
+    link:
+      url: /d/iS5EpPOVz-qwe-tbn/f5-tbn?orgId=1
+  fw_monitoring:
+    link:
+      url: /d/DooxkHVMk/dashboard-fw?orgId=1
+  internet_port:
+    link:
+      url: /d/2OhXZkp4kv2/internet-rgn-idc-tbn-for-monitor?orgId=1&refresh=1m
+  internet_topology:
+    link:
+      url: /d/coA6cnmnz/internet-triangle?orgId=1
+  internet_traffic:
+    link:
+      url: /d/iGSTOxFMk/dashboard-internet?orgId=1&refresh=30s
+  so_brinet:
+    link:
+      url: /d/dfcf92e9-5d3f-45d8-a77b-233c0017d76c/so-brinet?orgId=1
+  syslog_dns:
+    link:
+      url: /d/d2a41c6d-589c-45fd-a21e-9bffe603245a/syslog-dns-express?orgId=1&refresh=1m
+  syslog_fortinet:
+    link:
+      url: /d/aabe4567-8089-4e5d-b9cd-d664458ccbf0/elastic-forti2a?orgId=1
+  syslog_fortinetcrow:
+    link:
+      url: /d/a1c3e2ce-0d82-4f7f-908b-902de59b890a/elastic-forti-crow2a?orgId=1
+  syslog_network:
+    link:
+      url: /d/f58de0af-8db9-440b-ac33-46b75923d167/syslog-network-elastic?orgId=1
+  syslog_panw:
+    link:
+      url: /d/b0681519-439b-47bf-90a8-e8736dbf66df/elastic-panw2a?orgId=1
+  throughput:
+    link:
+      url: /d/w-OtRgPSk/throughput?orgId=1
+  dwdm_monitor:
+    link:
+      url: /d/j_lK9ZV4ka/monitor-dwdm?orgId=1
+  dwdm_event:
+    link:
+      url: /d/0uUoVFFVk/summary-event-dwdm?orgId=1&refresh=10s
+  lan_brl:
+    link:
+      url: /d/c5e04ebd-2a8c-4eac-a1da-82f1b1442f35/monitoring-mb?orgId=1
+  f5_summary:
+    link:
+      url: /d/7PKOttSVzf5alert/summary-event-f5?orgId=1&refresh=5s
+  ivat_rgn:
+    link:
+      url: /dashboards/f/J7pXHXwVk/ivat-infrastructure-visibility-and-analytic-tool
+  ivat_tbn:
+    link:
+      url: /dashboards/f/kuTRf8vIz/ivat-infrastructure-visibility-and-analytic-tool-tbn
+  srx_pscf:
+    link:
+      url: d/e0ccddcd-795a-4ce2-a07f-0cd582e98804/srx-pscf
+  summary_internet:
+    link:
+      url: /d/dbc721d5-578c-4474-a9f3-cd51d61b5f05/summary-dwdm-and-internet?orgId=1
+  global_cno:
+    link:
+      url: /d/a7f88e80-a4af-43d4-8fe0-1dedd962b919/global-monitoring-cno?orgId=1
+  global_topology:
+    link:
+      url: /d/f3643abd-bccc-46b2-835e-bd768c16d999/data-center-topology?orgId=1&refresh=1m
+  global_performance:
+    link:
+      url: /d/c9c7c053-4437-40cd-9511-e125feee8220/global-performance-cno?orgId=1
+  global_inac:
+    link:
+      url: /d/c12c4251-4f85-464d-bfd4-62d7c39bcecd/global-monitoring-inac?orgId=1
+  bigiq-reponses:
+    link:
+      url: /d/c2ac081c-47d9-4b14-b99b-e1852cb19893/response-summary?orgId=1
+  bigiq-analytic:
+    link:
+      url: /d/e419ed3f-fc22-4617-b7e8-f9da9dd5d39f/big-iq-7c-analytic-tool?orgId=1
