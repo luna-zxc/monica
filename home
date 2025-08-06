@@ -18,9 +18,6 @@ cells:
   ladscape:
     link:
       url: /d/b9842c52-0d8f-4e50-814a-94ba47e98021/landscape-jarkom-uker?orgId=1
-  lan_brl:
-    link:
-      url: /d/9DQ_ZwBSk/menara-brilian?orgId=1
   lan_rgn:
     link:
       url: /d/d3c0215f-69b3-4ba4-9b0f-14a443e75b4e/lan-ragunan-monitoring?orgId=1
@@ -55,12 +52,6 @@ cells:
   cpu_rgn:
     link:
       url: /d/c6110ec8-798f-4e8f-b7ad-8ca88fe06367/lco-cpu-utilization-ragunan?orgId=1
-  cpu_sud:
-    link:
-      url: /d/ca0eac3c-aca0-4ffc-8f1f-757a0fe65cc5/lco-cpu-utilization-sudirman?orgId=1&refresh=10s
-  cpu_tbn:
-    link:
-      url: /d/f0476521-723a-4ba7-8e5b-b94e1bb8c59b/lco-cpu-utilization-tabanan?orgId=1&refresh=10s
   cpu_mb:
     link:
       url: /d/c96b0096-9510-4e61-8b9c-31999e794d0e/lco-cpu-utilization-menara-brilian?orgId=1&refresh=10s
